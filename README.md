@@ -13,7 +13,7 @@ technologies, I bring innovative solutions to complex business challenges, ensur
 ### Skills
 
 **Frontend**
-<div style="display:flex;">
+<div style="display:inline; width:100%;">
   <span style="display:inline-block; margin:6px 10px; text-align:center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" height="32" />
     <div>HTML</div>
